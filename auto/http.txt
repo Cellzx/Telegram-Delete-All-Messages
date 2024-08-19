@@ -11,7 +11,6 @@ https://www.proxy-list.download/api/v1/get?type=http
 https://www.proxyscan.io/download?type=http
 https://rootjazz.com/proxies/proxies.txt
 https://sheesh.rip/http.txt
-https://spys.me/proxy.txt
 https://proxysearcher.sourceforge.net/Proxy%20List.php?type=http
 https://proxylist.geonode.com/api/proxy-list?limit=500&page=1&sort_by=lastChecked&sort_type=desc&protocols=http
 https://proxylist.geonode.com/api/proxy-list?limit=500&page=1&sort_by=lastChecked&sort_type=desc&protocols=https
